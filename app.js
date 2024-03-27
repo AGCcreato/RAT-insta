@@ -3,7 +3,7 @@
 
     var firebaseConfig = {
     apiKey: "AIzaSyCAUa2X-frQtrH9nJnBYranG3vb621a3X0",
-    authDomain: "AUTH DOMAIN",
+    authDomain: "rat-insta.firebaseapp.com",
     databaseURL: "https://rat-insta-default-rtdb.firebaseio.com",
     projectId: "rat-insta",
     storageBucket: "rat-insta.appspot.com",
