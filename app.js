@@ -2,11 +2,11 @@
 
 
     var firebaseConfig = {
-    apiKey: "API KEY",
+    apiKey: "AIzaSyCAUa2X-frQtrH9nJnBYranG3vb621a3X0",
     authDomain: "AUTH DOMAIN",
     databaseURL: "DATABSE URL",
-    projectId: "PROJECT ID",
-    storageBucket: "BUCKET URL",
+    projectId: "rat-insta",
+    storageBucket: "rat-insta.appspot.com",
     messagingSenderId: "SENDER ID",
     appId: "APP ID"
   }; 
